@@ -1,0 +1,6 @@
+@EstudoC__HostAddress = http://localhost:5290
+
+GET {{EstudoC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

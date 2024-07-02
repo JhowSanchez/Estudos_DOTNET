@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material",
+    "Preco": 25.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Material2",
+    "Preco": 35.00,
+    "DataVenda": "0001-01-01T00:00:00"
+  }
+]
